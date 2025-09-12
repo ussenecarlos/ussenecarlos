@@ -57,7 +57,7 @@ How to reach me<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#contact -->
- <!-- https://github.com/anuraghazra/github-readme-stats -->
- <!-- https://emojipedia.org/package -->
+ https://github.com/anuraghazra/github-readme-stats
+ https://emojipedia.org/package
  <!-- https://www.youtube.com/watch?v=cRoBt6AZgjc -->
  <!-- https://gprm.itsvg.in/ -->
