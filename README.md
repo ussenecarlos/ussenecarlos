@@ -41,7 +41,7 @@
 ## Training
 
 - Computer Science Student at UEM
-- 🌱 I’m currently learning HTML 5 and CSS 3 by myself and Java at University.
+- 🌱 I am currently working as an application developer and tester at Explicador Inc.
 
 
 ## Contact
@@ -49,7 +49,7 @@
 How to reach me<br/>
 
 - 📫 You can reach me through my social networks and my personal email..
-  ussene.c.matato@gmail.com<br/>
+  ussene.c.matato@hotmail.com<br/>
   Focus on Moving to the next Level</br>
 
 ### ✍️ Random Dev Quote
